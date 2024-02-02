@@ -1,0 +1,88 @@
+{
+  "usuarios": [
+    {
+      "id": "faa5",
+      "nome": "Fubá",
+      "email": "fub@gmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "39",
+      "complemento": "casa",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "43a1",
+      "nome": "Mingau",
+      "email": "mingau@gmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "39",
+      "complemento": "",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "0c1f",
+      "nome": "",
+      "email": "gabi.lopes@hotmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "",
+      "complemento": "",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "1e15",
+      "nome": "",
+      "email": "gabi.lopes@hotmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "",
+      "complemento": "",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "4851",
+      "nome": "fdf",
+      "email": "gabi.lopes@hotmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "4",
+      "complemento": "",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "2504",
+      "nome": "Gabriela ",
+      "email": "gabi.lopes@hotmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "23",
+      "complemento": "",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "374d",
+      "nome": "Gabi",
+      "email": "gabi.lopes@hotmail.com",
+      "cep": "03455090",
+      "rua": "Rua Formoselha",
+      "numero": "",
+      "complemento": "",
+      "bairro": "Jardim Aricanduva",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    }
+  ]
+}

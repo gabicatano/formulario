@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="./public/style.css">
+</head>
+<body>
+    <h1 class="titulo">Formulário pessoal</h1>
+
+    <form class="formulario">
+        <div class="formulario-itens">
+          <input type="text" class="formulario__input" id="floatingNome" placeholder="Digite seu nome">
+          
+          <div class="mensagem-erro">
+            <input type="email" class="formulario__input" id="floatingEmail" placeholder="Digite seu email">
+            <span class="span" id="span-email"></span>
+          </div>
+          
+        </div>
+
+        <div class="formulario-itens">
+          <div class="mensagem-erro">
+            <input type="text" class="formulario__input" id="floatingCEP" placeholder="Digite o CEP (sem traço)">
+            <span class="span" id="span-cep"></span>
+          </div>
+
+          <input type="text" class="formulario__input" id="floatingRua" placeholder="Logradouro">
+          <label for="floatingRua"></label>
+
+          <input type="text" class="formulario__input numero" id="floatingNumero" placeholder="Número">
+          <label for="floatingNumero"></label>
+        </div>
+
+          <div>
+            <input type="text" class="formulario__input" id="floatingComplemento" placeholder="Complemento">
+            <label for="floatingComplemento"></label>
+
+            <input type="text" class="formulario__input" id="floatingBairro" placeholder="Bairro">
+            <label for="floatingBairro"></label>
+          </div>
+          <div>
+            <input type="text" class="formulario__input" id="floatingCidade" placeholder="Cidade">
+            <label for="floatingCidade"></label>
+
+            <input type="text" class="formulario__input numero" id="floatingEstado" placeholder="Estado">
+            <label for="floatingEstado"></label>
+          </div>
+        <button type="button" id="botao" class="botao">Enviar</button>
+    </form>
+
+    <script src="./js/script.js" type="module"></script>
+    
+</body>
+
+</html>
